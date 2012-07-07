@@ -1,0 +1,3 @@
+Vmac_7cbc0ed_1.8.5-RC8:120707_181108: [info] RSProxyType.cpp:log(34)-1: Proxy type DIRECT
+Vmac_7cbc0ed_1.8.5-RC8:120707_181406: [info] CLIOnlineManager.cpp:_downloadClientINI(380): Updating 'client.ini' from URL [https://client.akamai.com/conf/client_single_user_conf.html?guid=6e0bd8e61e43c9c1bb5b4c3ad15059f5&stage=upgrade&rand=8264849&iniKey=mac_7cbc0ed_1.8.5-RC8]; user agent = [Akamai NetSession Interface (7cbc0ed;mac;1.8.5;OS X 10.7.4)].
+Vmac_7cbc0ed_1.8.5-RC8:120707_181407: [info] RSHttpBroker.cpp:sendCommon(782): Sent first few bytes to host [client.akamai.com:443]; resolved IP is [95.101.245.29].  Proxy URL is [].
